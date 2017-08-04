@@ -18,5 +18,7 @@ public class SuperMainActivity extends AppCompatActivity {
 
         mBinding.text1.setText("aaa");
         mBinding.textView.setText("bbb");
+
+        //changes
     }
 }
